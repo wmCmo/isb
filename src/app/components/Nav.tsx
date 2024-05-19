@@ -27,7 +27,7 @@ export default function Nav() {
         )
     })
 
-    const logo = <Image src='./logo.svg' width={30} height={30} alt="logo" />;
+    const logo = <Image src='/logo.svg' width={30} height={30} alt="logo" />;
 
     return (
         <div className='relative'>
